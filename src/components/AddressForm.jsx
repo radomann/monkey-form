@@ -13,7 +13,7 @@ export function AddressForm({ address, city, phone, updateFields }) {
         onChange={(e) => updateFields({ address: e.target.value })}
         minLength={1}
         maxLength={50}
-        placeholder="Cetinjski put bb"
+        placeholder="Street, number"
       />
       <label>{t("City")}</label>
       <input
@@ -23,7 +23,7 @@ export function AddressForm({ address, city, phone, updateFields }) {
         onChange={(e) => updateFields({ city: e.target.value })}
         minLength={1}
         maxLength={50}
-        placeholder="Podgorica"
+        placeholder="City name"
       />
       <label>{t("Phone")}</label>
       <input
