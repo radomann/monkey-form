@@ -25,7 +25,7 @@ const INITIAL_DATA = {
   checkbox: false,
 };
 
-function App() {
+export default function App() {
   const [data, setData] = useState(INITIAL_DATA);
   const [isLoading, setLoading] = useState(false);
   const { t } = useTranslation();
@@ -97,5 +97,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

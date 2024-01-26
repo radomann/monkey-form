@@ -109,7 +109,7 @@ export function UserForm({
         minLength={8}
         value={password}
         onChange={(e) => updateFields({ password: e.target.value })}
-        // pattern="(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}"
+        pattern="(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}"
         placeholder="8+ chars, 1 digit, 1 special, 1 lowercase, 1 uppercase"
       />
       <label>{t("confirm_password")}</label>
@@ -120,7 +120,7 @@ export function UserForm({
         minLength={6}
         value={passwordConfirm}
         onChange={(e) => updateFields({ passwordConfirm: e.target.value })}
-        // pattern="(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}"
+        pattern="(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}"
         onKeyUp={validatePasswordMatch}
         placeholder="Match with password or no bananas!"
       />
