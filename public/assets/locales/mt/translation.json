@@ -1,0 +1,32 @@
+{
+  "user_details": "Data tal-utent",
+  "next": "Li jmiss",
+  "previous": "Preċedenti",
+  "submit": "Issottometti",
+  "username": "Isem tal-utent",
+  "first_name": "Isem",
+  "last_name": "Kunjom",
+  "email": "Email",
+  "birthdate": "Data tat-twelid",
+  "gender": "Is-sess",
+  "female": "Mara",
+  "male": "Raġel",
+  "password": "Password",
+  "confirm_password": "Ikkonferma il-Password",
+  "address_details": "Indirizz u telefon",
+  "address": "Indirizz",
+  "city": "Belt",
+  "phone": "Telefon",
+  "terms": {
+    "title": "Termini u Kundizzjonijiet",
+    "1": "Qabel kollox, trid tħobb ix-xadini u l-banana.",
+    "2": "Billi tirreġistra fuq il-pjattaforma tagħna, taqbel li tipprovdi informazzjoni preċiża u kompleta.",
+    "3": "Int responsabbli biex iżżomm il-kunfidenzjalità tal-kredenzjali tal-kont tiegħek.",
+    "4": "Għandek tinnotifikana immedjatament bi kwalunkwe użu mhux awtorizzat tal-kont tiegħek jew kwalunkwe ksur ieħor tas-sigurtà.",
+    "5": "L-utenti jrid ikollhom mill-inqas 18-il sena biex jirreġistraw fuq il-pjattaforma tagħna.",
+    "6": "Aħna nirriżervaw id-dritt li nissospendiw jew intemmu kontijiet li jiksru l-politiki tagħna.",
+    "7": "L-informazzjoni personali tiegħek se tiġi ttrattata skont il-Politika ta' Privatezza tagħna.",
+    "8": "Nistgħu nibagħtulek notifiki importanti relatati mal-aġġornamenti tal-kont u tas-servizz tiegħek.",
+    "9": "Qrajt u qbilt ma' dawn it-Termini u Kundizzjonijiet."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "user_details": "Korisnički podaci",
+  "next": "Sledeća",
+  "previous": "Prethodna",
+  "submit": "Pošalji",
+  "username": "Korisničko ime",
+  "first_name": "Ime",
+  "last_name": "Prezime",
+  "email": "Email",
+  "birthdate": "Datum rođenja",
+  "gender": "Pol",
+  "female": "Žensko",
+  "male": "Muško",
+  "password": "Lozinka",
+  "confirm_password": "Potvrdi lozinku",
+  "address_details": "Adresa i telefon",
+  "address": "Adresa",
+  "city": "Grad",
+  "phone": "Telefon",
+  "terms": {
+    "title": "Uslovi",
+    "1": "Prije svega, morate voljeti majmune i banane.",
+    "2": "Registracijom na našoj platformi saglasni ste da pružite tačne i potpune informacije.",
+    "3": "Vi ste odgovorni za održavanje povjerljivosti akreditiva vašeg naloga.",
+    "4": "Morate nas odmah obavijestiti o bilo kakvom neovlašćenom korišćenju vašeg naloga ili bilo kom drugom narušavanju bezbednosti.",
+    "5": "Korisnici moraju imati najmanje 18 godina da bi se registrovali na našoj platformi.",
+    "6": "Zadržavamo pravo da suspendujemo ili ukinemo naloge koji krše naše smjernice.",
+    "7": "Vaši lični podaci biće obrađeni u skladu sa našom Politikom privatnosti.",
+    "8": "Možda ćemo vam slati važna obaveštenja u vezi sa vašim nalogom i ažuriranjima usluga.",
+    "9": "Pročitao sam i slažem se sa ovim Uslovima i odredbama."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "user_details": "User details",
+  "next": "Next",
+  "previous": "Previous",
+  "submit": "Submit",
+  "username": "Username",
+  "first_name": "First name",
+  "last_name": "Last name",
+  "email": "Email",
+  "birthdate": "Birthdate",
+  "gender": "Gender",
+  "female": "Female",
+  "male": "Male",
+  "password": "Password",
+  "confirm_password": "Confirm password",
+  "address_details": "Address & phone",
+  "address": "Address",
+  "city": "City",
+  "phone": "Phone",
+  "terms": {
+    "title": "Terms and conditions",
+    "1": "Foremost, you have to love monkeys and bananas.",
+    "2": "By registering on our platform, you agree to provide accurate and complete information.",
+    "3": "You are responsible for maintaining the confidentiality of your account credentials.",
+    "4": "You must notify us immediately of any unauthorized use of your account or any other security breach.",
+    "5": "Users must be at least 18 years old to register on our platform.",
+    "6": "We reserve the right to suspend or terminate accounts that violate our policies.",
+    "7": "Your personal information will be handled in accordance with our Privacy Policy.",
+    "8": "We may send you important notifications related to your account and service updates.",
+    "9": "I have read and agreed to these Terms and Conditions."
+  }
+}
